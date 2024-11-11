@@ -29,3 +29,4 @@ fclean : clean
 re : fclean all
 
 .PHONY : all bonus clean fclean re
+.SECONDARY :
